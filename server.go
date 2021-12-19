@@ -1,4 +1,4 @@
-package http
+package go_api
 
 import (
 	"context"
